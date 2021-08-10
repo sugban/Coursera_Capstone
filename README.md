@@ -11,6 +11,7 @@ I'll use North York dataset, which we have already scrapped from wikipedia on We
 Other than that I'll also look for Canada neighborhood crime rates in data to find the better neighborhood for immigrants.
 
 **Foursquare API Data:**
+
 We will use data for different venues in different neighborhoods of that specific borough.<br>
 For achieving that information, we'll use "Foursquare" locational provider.<br>
 Foursquare is a location data provider with information of venues and events with info like ; location and even photos in an area of interest.<br>
